@@ -13,6 +13,7 @@ https://mega.nz/file/wMtBwaYA#_UoVt47xcMeSvaR_5qKOmIipcTDTnWX1ONvCHB4vO9Y
 Qiskit Lenguaje Cuantico de IBM:
 -------------------------------
 Entrelazamiento: https://mega.nz/file/VMUjmZhT#d_8QzHQuhQAIxmC1kicaeuDq71-_CPmLRGJseOcRx6U
+
 Teleportación:   https://mega.nz/file/RE93zI4D#wOmjm3zgfI1DkR7UfJoF8gdyvPZotU6zN8Kj825txH0
 
 Lector de lenguaje de señas:
@@ -34,4 +35,5 @@ https://mega.nz/file/QNclED6Q#yu8mAADqL3_i0KBy7RqxSW4T_cu1oAPXOGsxwzXWeeM
 Sistema solar:
 -------------
 En Godot: https://mega.nz/file/JYl0xZjY#UsiJmlPqbvDMNc0yO7ehNuJsXlGiPZgdWreAj7RkY7U
+
 En Unity: https://mega.nz/file/hJtTGSrB#-qV53umzLngavaftzuATkvzVmezjazfRlAbgKGvy7qo
