@@ -24,9 +24,13 @@ FPS Demo:
 --------
 https://mega.nz/file/9VsTlLJC#zxqtZb3V04s91qw8KYfFttLdc5KUP3uug3HW518fbPA
 
-Laberinto On line (NUEVOS NIVELES)
+Laberinto On line WEb(NUEVOS NIVELES)
 ----------------------------------
 https://walterm128.github.io/laberinto/
+
+Laberinto PC Windows
+--------------------
+https://mega.nz/file/AU0GXSKK#ZF2jJ2nfXs-j9Eong_4y5y4H7HBJ_KsieNrpGVR_K18
 
 Show Room Liga Nacional de Robotica:
 -----------------------------------
