@@ -40,7 +40,7 @@ Show Room Liga Nacional de Robotica Web Online:
 -----------------------------------
 Godot https://walterm128.github.io/LNR/
 
-Sistema solar:
+Sistema solar (1er puesto NASA 2020 Hackathon):
 -------------
 Godot: https://mega.nz/file/JYl0xZjY#UsiJmlPqbvDMNc0yO7ehNuJsXlGiPZgdWreAj7RkY7U
 
