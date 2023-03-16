@@ -1,6 +1,6 @@
 # SoftwareExpo
 
-Links para Bajar las apliaciones:
+# Links para Bajar las apliaciones o abrirlas Web:
 --------------------------------
 ADN Algoritmo Evolutivo PC Windows:
 -----------------------
