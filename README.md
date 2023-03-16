@@ -2,25 +2,25 @@
 
 Links para Bajar las apliaciones:
 --------------------------------
-ADN Algoritmo Evolutivo:
+ADN Algoritmo Evolutivo PC Windows:
 -----------------------
 https://mega.nz/file/ZAFwiAhb#p75ipvOI-xa-81viFx3FYainRGPxQPuV9EaG1qhDTnc
 
-El juego de la vida de Conway:
+El juego de la vida de Conway PC Windows:
 -----------------------------
 https://mega.nz/file/wMtBwaYA#_UoVt47xcMeSvaR_5qKOmIipcTDTnWX1ONvCHB4vO9Y
 
-Qiskit Lenguaje Cuantico de IBM:
+Qiskit Lenguaje Cuantico de IBM PC Windows:
 -------------------------------
 Entrelazamiento: https://mega.nz/file/VMUjmZhT#d_8QzHQuhQAIxmC1kicaeuDq71-_CPmLRGJseOcRx6U
 
 Teleportación:   https://mega.nz/file/RE93zI4D#wOmjm3zgfI1DkR7UfJoF8gdyvPZotU6zN8Kj825txH0
 
-Lector de lenguaje de señas:
+Lector de lenguaje de señas PC Windows:
 ---------------------------
 https://mega.nz/file/pEklHSZC#EbEhExKC5X23rtp-fwiMMJwY2PvtlrOfUD-ml6I5eAg
 
-FPS Demo:
+FPS Demo PC Windows:
 --------
 https://mega.nz/file/9VsTlLJC#zxqtZb3V04s91qw8KYfFttLdc5KUP3uug3HW518fbPA
 
@@ -40,7 +40,7 @@ Show Room Liga Nacional de Robotica Web Online:
 -----------------------------------
 Godot https://walterm128.github.io/LNR/
 
-Sistema solar (1er puesto NASA 2020 Hackathon):
+Sistema solar (1er puesto NASA 2020 Hackathon) Web On Line:
 -------------
 Godot: https://mega.nz/file/JYl0xZjY#UsiJmlPqbvDMNc0yO7ehNuJsXlGiPZgdWreAj7RkY7U
 
