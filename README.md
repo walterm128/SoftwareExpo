@@ -4,7 +4,7 @@
 --------------------------------
 ADN Algoritmo Evolutivo PC Windows:
 -----------------------
-https://mega.nz/file/ZAFwiAhb#p75ipvOI-xa-81viFx3FYainRGPxQPuV9EaG1qhDTnc
+https://mega.nz/file/FdEl0DAA#Z7GToPpLyPt-VvTf2W_pvKSxTVHreXX_X3YsQiet27g
 
 El juego de la vida de Conway PC Windows:
 -----------------------------
