@@ -40,11 +40,19 @@ Show Room Liga Nacional de Robotica Web Online:
 -----------------------------------
 Godot https://walterm128.github.io/LNR/
 
-Sistema solar (1er puesto NASA 2020 Hackathon) Web On Line:
+Sistema solar (1er puesto NASA 2020 Hackathon) PC y Android:
 -------------
 Godot: https://mega.nz/file/JYl0xZjY#UsiJmlPqbvDMNc0yO7ehNuJsXlGiPZgdWreAj7RkY7U
 
 Unity: https://mega.nz/file/hJtTGSrB#-qV53umzLngavaftzuATkvzVmezjazfRlAbgKGvy7qo
+
+Unity Android: https://mega.nz/file/1FklSJJQ#O931yAYXNnpL4t2J3fXyDDhL8k2L7fzUYWs9kJcl-EA
+
+Sistema solar (1er puesto NASA 2020 Hackathon) Web Online:
+-------------
+Godot: https://walterm128.github.io/GodotSolarSystem/
+
+Unity: https://walterm128.github.io/gweinsteingame/
 
 Código Q Whormhole:
 -------------------
