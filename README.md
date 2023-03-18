@@ -1,4 +1,5 @@
-# SoftwareExpo
+# Software Campamento Digital 2023
+# Video Juegos, Ciencia y Tecnología, IA, etc.
 
 # Links para Bajar las apliaciones o abrirlas Web:
 --------------------------------
