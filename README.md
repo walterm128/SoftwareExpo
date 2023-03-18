@@ -24,7 +24,7 @@ FPS Demo PC Windows:
 --------
 https://mega.nz/file/9VsTlLJC#zxqtZb3V04s91qw8KYfFttLdc5KUP3uug3HW518fbPA
 
-Laberinto On line WEb(NUEVOS NIVELES)
+Laberinto On line Web(NUEVOS NIVELES)
 ----------------------------------
 https://walterm128.github.io/laberinto/
 
