@@ -31,7 +31,7 @@ https://walterm128.github.io/laberinto/
 
 Laberinto PC Windows
 --------------------
-https://mega.nz/file/oZcy2BZY#IBJzaWo1o6foiv16Yt_2u8j_QcdPGjalEWsWT_eM-bs
+https://mega.nz/file/gJkBTCKI#irZvsP4zJwVzoh88pIdKfEXkLUat0MsYbcqkrjz5zHM
 
 Show Room Liga Nacional de Robotica PC Windows:
 -----------------------------------
