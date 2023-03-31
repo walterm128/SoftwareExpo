@@ -1,7 +1,7 @@
 # Software Campamento Digital GameDevs Rosario 2023
 # Video Juegos, Ciencia y Tecnología, IA, etc.
 
-# Links para Bajar las apliaciones o abrirlas Web:
+# Links para Bajar las aplicaciones o abrirlas Web:
 --------------------------------
 ADN Algoritmo Evolutivo PC Windows:
 -----------------------
@@ -11,7 +11,7 @@ El juego de la vida de Conway PC Windows:
 -----------------------------
 https://mega.nz/file/wMtBwaYA#_UoVt47xcMeSvaR_5qKOmIipcTDTnWX1ONvCHB4vO9Y
 
-Qiskit Lenguaje Cuantico de IBM PC Windows:
+Qiskit Lenguaje Cuántico de IBM PC Windows:
 -------------------------------
 Entrelazamiento: https://mega.nz/file/VMUjmZhT#d_8QzHQuhQAIxmC1kicaeuDq71-_CPmLRGJseOcRx6U
 
@@ -33,11 +33,11 @@ Laberinto PC Windows
 --------------------
 https://mega.nz/file/gJkBTCKI#irZvsP4zJwVzoh88pIdKfEXkLUat0MsYbcqkrjz5zHM
 
-Show Room Liga Nacional de Robotica PC Windows:
+Show Room Liga Nacional de Robótica PC Windows:
 -----------------------------------
 https://mega.nz/file/QNclED6Q#yu8mAADqL3_i0KBy7RqxSW4T_cu1oAPXOGsxwzXWeeM
 
-Show Room Liga Nacional de Robotica Web Online:
+Show Room Liga Nacional de Robótica Web Online:
 -----------------------------------
 Godot https://walterm128.github.io/LNR/
 
