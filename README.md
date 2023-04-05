@@ -7,13 +7,9 @@
 
 # Genética
 
-ADN Algoritmo Evolutivo PC Windows:
+ADN Algoritmo Evolutivo PC Windows: https://mega.nz/file/FdEl0DAA#Z7GToPpLyPt-VvTf2W_pvKSxTVHreXX_X3YsQiet27g
 
-https://mega.nz/file/FdEl0DAA#Z7GToPpLyPt-VvTf2W_pvKSxTVHreXX_X3YsQiet27g
-
-El juego de la vida de Conway PC Windows:
-
-https://mega.nz/file/wMtBwaYA#_UoVt47xcMeSvaR_5qKOmIipcTDTnWX1ONvCHB4vO9Y
+El juego de la vida de Conway PC Windows: https://mega.nz/file/wMtBwaYA#_UoVt47xcMeSvaR_5qKOmIipcTDTnWX1ONvCHB4vO9Y
 
 --------------------------------
 # COMPUTACIÓN CUÁNTICA
@@ -30,34 +26,25 @@ Código Q Whormhole: https://mega.nz/file/xQllQTgT#5wkVmyR7MQZmVcX8hi0LWbryou8p9
 
 # IA
 
-Lector de lenguaje de señas PC Windows:
-
-https://mega.nz/file/pEklHSZC#EbEhExKC5X23rtp-fwiMMJwY2PvtlrOfUD-ml6I5eAg
+Lector de lenguaje de señas PC Windows: https://mega.nz/file/pEklHSZC#EbEhExKC5X23rtp-fwiMMJwY2PvtlrOfUD-ml6I5eAg
 
 --------------------------------
 # GAMING
 
-FPS Demo PC Windows:
+FPS Demo PC Windows: https://mega.nz/file/9VsTlLJC#zxqtZb3V04s91qw8KYfFttLdc5KUP3uug3HW518fbPA
 
-https://mega.nz/file/9VsTlLJC#zxqtZb3V04s91qw8KYfFttLdc5KUP3uug3HW518fbPA
+Laberinto On line Web(NUEVOS NIVELES): https://walterm128.github.io/laberinto/
 
-Laberinto On line Web(NUEVOS NIVELES)
-
-https://walterm128.github.io/laberinto/
-
-Laberinto PC Windows
-
-https://mega.nz/file/gJkBTCKI#irZvsP4zJwVzoh88pIdKfEXkLUat0MsYbcqkrjz5zHM
+Laberinto PC Windows: https://mega.nz/file/gJkBTCKI#irZvsP4zJwVzoh88pIdKfEXkLUat0MsYbcqkrjz5zHM
 
 --------------------------------
 # ROBOTICA
 
-Show Room Liga Nacional de Robótica PC Windows:
-https://mega.nz/file/QNclED6Q#yu8mAADqL3_i0KBy7RqxSW4T_cu1oAPXOGsxwzXWeeM
+Show Room Liga Nacional de Robótica PC Windows: https://mega.nz/file/QNclED6Q#yu8mAADqL3_i0KBy7RqxSW4T_cu1oAPXOGsxwzXWeeM
 
 Show Room Liga Nacional de Robótica Web Online:
 
-Godot https://walterm128.github.io/LNR/
+Godot: https://walterm128.github.io/LNR/
 
 --------------------------------
 
@@ -79,15 +66,11 @@ Unity: https://walterm128.github.io/gweinsteingame/
 
 --------------------------------
 
-# Canal Youtube:
-
-https://www.youtube.com/@walterm9506/videos
+# Canal Youtube: https://www.youtube.com/@walterm9506/videos
 
 --------------------------------
 
-# Link Tree:
-
-https://linktr.ee/walterm670
+# Link Tree: [link]https://linktr.ee/walterm670{:target="_blank"}
 
 --------------------------------
 
