@@ -48,7 +48,7 @@ Laberinto PC Windows: https://mega.nz/file/UNF1lYrI#LcpJ3YgXAA1L5c84GNgBBo9rTn5M
 
 Show Room Liga Nacional de Robótica PC Windows: https://mega.nz/file/QNclED6Q#yu8mAADqL3_i0KBy7RqxSW4T_cu1oAPXOGsxwzXWeeM
 
-Show Room Liga Nacional de Robótica Web Online:
+Show Room Liga Nacional de Robótica y GRS Web Online:
 
 Godot: https://walterm128.github.io/LNR/
 
