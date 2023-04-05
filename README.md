@@ -20,7 +20,7 @@ El juego de la vida de Conway PC Windows: https://mega.nz/file/wMtBwaYA#_UoVt47x
 --------------------------------
 # COMPUTACIÓN CUÁNTICA
 
-Qiskit Lenguaje Cuántico de IBM PC Windows:
+Qiskit Lenguaje con simulador Cuánticode de IBM - PC Windows:
 
 Entrelazamiento: https://mega.nz/file/VMUjmZhT#d_8QzHQuhQAIxmC1kicaeuDq71-_CPmLRGJseOcRx6U
 
