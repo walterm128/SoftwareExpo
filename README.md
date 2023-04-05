@@ -23,10 +23,14 @@ Teleportación:   https://mega.nz/file/RE93zI4D#wOmjm3zgfI1DkR7UfJoF8gdyvPZotU6z
 
 Código Q Whormhole: https://mega.nz/file/xQllQTgT#5wkVmyR7MQZmVcX8hi0LWbryou8p9c8Z9ej2ddc0UMo
 ---------------------------
-#IA
+# IA
+
 Lector de lenguaje de señas PC Windows:
 
 https://mega.nz/file/pEklHSZC#EbEhExKC5X23rtp-fwiMMJwY2PvtlrOfUD-ml6I5eAg
+
+---------------------------
+# GAMING
 
 FPS Demo PC Windows:
 
@@ -37,15 +41,14 @@ Laberinto On line Web(NUEVOS NIVELES)
 https://walterm128.github.io/laberinto/
 
 Laberinto PC Windows
-https://mega.nz/file/gJkBTCKI#irZvsP4zJwVzoh88pIdKfEXkLUat0MsYbcqkrjz5zHM
 
+https://mega.nz/file/gJkBTCKI#irZvsP4zJwVzoh88pIdKfEXkLUat0MsYbcqkrjz5zHM
 
 -----------------------------------
 # ROBOTICA
 
 Show Room Liga Nacional de Robótica PC Windows:
 https://mega.nz/file/QNclED6Q#yu8mAADqL3_i0KBy7RqxSW4T_cu1oAPXOGsxwzXWeeM
-
 
 Show Room Liga Nacional de Robótica Web Online:
 
