@@ -66,11 +66,15 @@ Unity: https://walterm128.github.io/gweinsteingame/
 
 --------------------------------
 
-# Canal Youtube: https://www.youtube.com/@walterm9506/videos
+# Canal Youtube:
+
+https://www.youtube.com/@walterm9506/videos
 
 --------------------------------
 
-# Link Tree: https://linktr.ee/walterm670
+# Link Tree:
+
+https://linktr.ee/walterm670
 
 --------------------------------
 
