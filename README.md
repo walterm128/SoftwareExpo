@@ -23,7 +23,9 @@ Entrelazamiento: https://mega.nz/file/VMUjmZhT#d_8QzHQuhQAIxmC1kicaeuDq71-_CPmLR
 Teleportación:   https://mega.nz/file/RE93zI4D#wOmjm3zgfI1DkR7UfJoF8gdyvPZotU6zN8Kj825txH0
 
 Código Q Whormhole: https://mega.nz/file/xQllQTgT#5wkVmyR7MQZmVcX8hi0LWbryou8p9c8Z9ej2ddc0UMo
+
 --------------------------------
+
 # IA
 
 Lector de lenguaje de señas PC Windows:
@@ -56,6 +58,7 @@ Show Room Liga Nacional de Robótica Web Online:
 Godot https://walterm128.github.io/LNR/
 
 --------------------------------
+
 # ASTRONOMÍA
 
 Sistema solar (1er puesto NASA 2020 Hackathon) PC y Android:
@@ -73,11 +76,14 @@ Godot: https://walterm128.github.io/GodotSolarSystem/
 Unity: https://walterm128.github.io/gweinsteingame/
 
 --------------------------------
-Canal Youtube:
+
+# Canal Youtube:
 
 https://www.youtube.com/@walterm9506/videos
+
 --------------------------------
-Link Tree:
+
+# Link Tree:
 
 https://linktr.ee/walterm670
 
