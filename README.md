@@ -1,8 +1,10 @@
 # Software Campamento Digital GameDevs Rosario 2023
 # Video Juegos, Ciencia y Tecnología, IA, etc.
 
-# Links para Bajar las aplicaciones o abrirlas Web:
+# Links para Bajar las aplicaciones o abrirlas con el navegador Web:
+
 --------------------------------
+
 # Genética
 
 ADN Algoritmo Evolutivo PC Windows:
