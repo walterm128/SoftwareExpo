@@ -70,7 +70,7 @@ Unity: https://walterm128.github.io/gweinsteingame/
 
 --------------------------------
 
-# Link Tree: [link]https://linktr.ee/walterm670{:target="_blank"}
+# Link Tree: https://linktr.ee/walterm670
 
 --------------------------------
 
