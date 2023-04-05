@@ -5,9 +5,13 @@
 
 --------------------------------
 
-# Genética
+# GENÉTICA
 
 ADN Algoritmo Evolutivo PC Windows: https://mega.nz/file/FdEl0DAA#Z7GToPpLyPt-VvTf2W_pvKSxTVHreXX_X3YsQiet27g
+
+--------------------------------
+
+# JUEGO DE LA VIDA
 
 El juego de la vida de Conway PC Windows: https://mega.nz/file/wMtBwaYA#_UoVt47xcMeSvaR_5qKOmIipcTDTnWX1ONvCHB4vO9Y
 
