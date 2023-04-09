@@ -41,7 +41,7 @@ FPS Demo PC Windows: https://mega.nz/file/9VsTlLJC#zxqtZb3V04s91qw8KYfFttLdc5KUP
 
 Laberinto On line Web(NUEVOS NIVELES): https://walterm128.github.io/laberinto/
 
-Laberinto PC Windows: https://mega.nz/file/UEc3zTST#IQr5tCZUwJcWdih9o94BHgAA3MkuI3T1Dujoy9Zz9Og
+Laberinto PC Windows: https://mega.nz/file/lRN1URyZ#aHxKEcM29GaeMFEqNugBk_WK_4YMKhV6c-vwGl6EXfs
 
 --------------------------------
 # ROBOTICA
