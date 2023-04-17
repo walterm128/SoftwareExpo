@@ -34,6 +34,8 @@ Código Q Whormhole: https://mega.nz/file/xQllQTgT#5wkVmyR7MQZmVcX8hi0LWbryou8p9
 
 Lector de lenguaje de señas PC Windows: https://mega.nz/file/pEklHSZC#EbEhExKC5X23rtp-fwiMMJwY2PvtlrOfUD-ml6I5eAg
 
+(Versión Demo 4 señas Hola, chau, por favor, a, b con entrenamiento liviano)
+
 --------------------------------
 # GAMING
 
