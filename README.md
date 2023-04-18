@@ -41,7 +41,7 @@ Lector de lenguaje de señas PC Windows: https://mega.nz/file/pEklHSZC#EbEhExKC5
 
 FPS Demo PC Windows: https://mega.nz/file/9VsTlLJC#zxqtZb3V04s91qw8KYfFttLdc5KUP3uug3HW518fbPA
 
-Laberinto On line Web(NUEVOS NIVELES): https://walterm128.github.io/laberinto/
+Laberinto On line Web (NUEVOS NIVELES): https://walterm128.github.io/laberinto/
 
 Laberinto PC Windows: https://mega.nz/file/AF9xWC5C#z1qiHDlrzrvraDJePPS58NBvalVtHwSxPcIXjotn2g4
 
