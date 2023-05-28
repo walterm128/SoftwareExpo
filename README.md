@@ -52,7 +52,7 @@ Show Room Liga Nacional de Robótica PC Windows: https://mega.nz/file/QNclED6Q#y
 
 Show Room Liga Nacional de Robótica y GRS Web Online:
 
-Godot: https://walterm128.github.io/LNR2/
+Godot: https://walterm128.github.io/LNR/
 
 --------------------------------
 
