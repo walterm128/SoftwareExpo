@@ -48,7 +48,7 @@ Laberinto PC Windows: https://mega.nz/file/AF9xWC5C#z1qiHDlrzrvraDJePPS58NBvalVt
 --------------------------------
 # ROBOTICA
 
-Show Room Liga Nacional de Robótica PC Windows: https://mega.nz/file/QNclED6Q#yu8mAADqL3_i0KBy7RqxSW4T_cu1oAPXOGsxwzXWeeM
+Show Room Liga Nacional de Robótica PC Windows: https://mega.nz/file/kV1TFQJa#faW3Qf7EtQFFxInAsFSEVonrCNwgMGnskf8MF-Rni0c
 
 Show Room Liga Nacional de Robótica y GRS Web Online:
 
