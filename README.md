@@ -52,9 +52,9 @@ Show Room Liga Nacional de Robótica y GRS Web Online:
 
 Unity WebGL: https://walterm128.github.io/LNR/
 
-Show Room Liga Nacional de Robótica PC Windows: https://mega.nz/file/ZY0wiKCJ#LMZ-PF9Nv5hUi8IDGEWeZp3gre9UtdzOLtjcUL3F1kQ
+Show Room Liga Nacional de Robótica PC Windows: https://mega.nz/file/8R0QgKjC#hHyOh-783x_GVRIaDMFBCQc92zo5w0xPWS312T-J8N4
 
-Android Unity: https://mega.nz/file/scN0CSTJ#6P1gzfVN2bOByaBj59gEbTMmK5Z4yPEcVKT5wpHHe94 
+Android Unity: https://mega.nz/file/4V9mWabI#OSaQFM_avDmt9GvEMQyKbqgb86Cf3UN7H5-jdoQubnA
 
 --------------------------------
 
