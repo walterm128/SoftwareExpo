@@ -76,7 +76,7 @@ Unity: https://walterm128.github.io/gweinsteingame/
 
 Sitio Completo: https://walterm128.github.io/nasaappweb/eventapi/html/allevents/index.html
 
-Posición ISS en 3D: [Posición ISS](https://walterm128.github.io/ISSTracker/ target="_blank")
+Posición ISS en 3D: [Posición ISS](https://walterm128.github.io/ISSTracker/)
 
 --------------------------------
 
