@@ -1,48 +1,67 @@
 # Software Campamento Digital GameDevs Rosario 2023
 # Video Juegos, Ciencia y Tecnología, IA, etc.
 
-# Links para Bajar las aplicaciones o abrirlas Web:
+# Links para Bajar las aplicaciones o abrirlas con el navegador Web:
+
+https://youtu.be/523Xi-DkcZk
+
 --------------------------------
-ADN Algoritmo Evolutivo PC Windows:
------------------------
-https://mega.nz/file/FdEl0DAA#Z7GToPpLyPt-VvTf2W_pvKSxTVHreXX_X3YsQiet27g
 
-El juego de la vida de Conway PC Windows:
------------------------------
-https://mega.nz/file/wMtBwaYA#_UoVt47xcMeSvaR_5qKOmIipcTDTnWX1ONvCHB4vO9Y
+# GENÉTICA
 
-Qiskit Lenguaje Cuántico de IBM PC Windows:
--------------------------------
+ADN Algoritmo Evolutivo PC Windows: https://mega.nz/file/FdEl0DAA#Z7GToPpLyPt-VvTf2W_pvKSxTVHreXX_X3YsQiet27g
+
+--------------------------------
+
+# JUEGO DE LA VIDA
+
+El juego de la vida de Conway PC Windows: https://mega.nz/file/wMtBwaYA#_UoVt47xcMeSvaR_5qKOmIipcTDTnWX1ONvCHB4vO9Y
+
+--------------------------------
+# COMPUTACIÓN CUÁNTICA
+
+Qiskit Lenguaje con simulador Cuánticode de IBM - PC Windows:
+
 Entrelazamiento: https://mega.nz/file/VMUjmZhT#d_8QzHQuhQAIxmC1kicaeuDq71-_CPmLRGJseOcRx6U
 
 Teleportación:   https://mega.nz/file/RE93zI4D#wOmjm3zgfI1DkR7UfJoF8gdyvPZotU6zN8Kj825txH0
 
-Lector de lenguaje de señas PC Windows:
----------------------------
-https://mega.nz/file/pEklHSZC#EbEhExKC5X23rtp-fwiMMJwY2PvtlrOfUD-ml6I5eAg
+Código Q Whormhole: https://mega.nz/file/xQllQTgT#5wkVmyR7MQZmVcX8hi0LWbryou8p9c8Z9ej2ddc0UMo
 
-FPS Demo PC Windows:
---------
-https://mega.nz/file/9VsTlLJC#zxqtZb3V04s91qw8KYfFttLdc5KUP3uug3HW518fbPA
+--------------------------------
 
-Laberinto On line Web(NUEVOS NIVELES)
-----------------------------------
-https://walterm128.github.io/laberinto/
+# IA
 
-Laberinto PC Windows
---------------------
-https://mega.nz/file/gJkBTCKI#irZvsP4zJwVzoh88pIdKfEXkLUat0MsYbcqkrjz5zHM
+Lector de lenguaje de señas PC Windows: https://mega.nz/file/pEklHSZC#EbEhExKC5X23rtp-fwiMMJwY2PvtlrOfUD-ml6I5eAg
 
-Show Room Liga Nacional de Robótica PC Windows:
------------------------------------
-https://mega.nz/file/QNclED6Q#yu8mAADqL3_i0KBy7RqxSW4T_cu1oAPXOGsxwzXWeeM
+(Versión Demo 4 señas Hola, chau, por favor, a, b con entrenamiento liviano)
 
-Show Room Liga Nacional de Robótica Web Online:
------------------------------------
-Godot https://walterm128.github.io/LNR/
+--------------------------------
+# GAMING
+
+FPS Demo PC Windows: https://mega.nz/file/9VsTlLJC#zxqtZb3V04s91qw8KYfFttLdc5KUP3uug3HW518fbPA
+
+Laberinto On line Web (NUEVOS NIVELES): https://walterm128.github.io/laberinto/
+
+Laberinto PC Windows: https://mega.nz/file/AF9xWC5C#z1qiHDlrzrvraDJePPS58NBvalVtHwSxPcIXjotn2g4
+
+--------------------------------
+# ROBOTICA
+
+Show Room Liga Nacional de Robótica y GRS Web Online:
+
+Unity WebGL: https://walterm128.github.io/LNR/
+
+Show Room Liga Nacional de Robótica PC Windows: https://mega.nz/file/oU1WVBBC#1Hz11aOwFpflveK6UQbtu1WbHWOsoBWezgAjELWIIdU
+
+Android Unity: https://mega.nz/file/4V9mWabI#OSaQFM_avDmt9GvEMQyKbqgb86Cf3UN7H5-jdoQubnA
+
+--------------------------------
+
+# ASTRONOMÍA
 
 Sistema solar (1er puesto NASA 2020 Hackathon) PC y Android:
--------------
+
 Godot: https://mega.nz/file/JYl0xZjY#UsiJmlPqbvDMNc0yO7ehNuJsXlGiPZgdWreAj7RkY7U
 
 Unity: https://mega.nz/file/hJtTGSrB#-qV53umzLngavaftzuATkvzVmezjazfRlAbgKGvy7qo
@@ -50,21 +69,27 @@ Unity: https://mega.nz/file/hJtTGSrB#-qV53umzLngavaftzuATkvzVmezjazfRlAbgKGvy7qo
 Unity Android: https://mega.nz/file/1FklSJJQ#O931yAYXNnpL4t2J3fXyDDhL8k2L7fzUYWs9kJcl-EA
 
 Sistema solar (1er puesto NASA 2020 Hackathon) Web Online:
--------------
+
 Godot: https://walterm128.github.io/GodotSolarSystem/
 
 Unity: https://walterm128.github.io/gweinsteingame/
 
-Código Q Whormhole:
--------------------
-https://mega.nz/file/xQllQTgT#5wkVmyR7MQZmVcX8hi0LWbryou8p9c8Z9ej2ddc0UMo
+Sitio Completo: https://walterm128.github.io/nasaappweb/eventapi/html/allevents/index.html
 
-Canal Youtube:
----------------------
+Posición ISS en 3D: [Posición ISS](https://walterm128.github.io/ISSTracker/)
+
+--------------------------------
+
+# Canal Youtube:
+
 https://www.youtube.com/@walterm9506/videos
 
-Link Tree:
-------------
+--------------------------------
+
+# Link Tree:
+
 https://linktr.ee/walterm670
+
+--------------------------------
 
 ![alt](Folletos.jpg)
