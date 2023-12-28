@@ -3,10 +3,6 @@
 
 # Links para Bajar las aplicaciones o abrirlas con el navegador Web:
 
-https://youtu.be/523Xi-DkcZk
-
---------------------------------
-
 # GENÉTICA
 
 ADN Algoritmo Evolutivo PC Windows: https://mega.nz/file/FdEl0DAA#Z7GToPpLyPt-VvTf2W_pvKSxTVHreXX_X3YsQiet27g
@@ -41,42 +37,26 @@ Lector de lenguaje de señas PC Windows: https://mega.nz/file/pEklHSZC#EbEhExKC5
 
 FPS Demo PC Windows: https://mega.nz/file/9VsTlLJC#zxqtZb3V04s91qw8KYfFttLdc5KUP3uug3HW518fbPA
 
-Laberinto On line Web (NUEVOS NIVELES): https://walterm128.github.io/laberinto/
-
-Laberinto PC Windows: https://mega.nz/file/dIFwXahI#rKa3x0PryjhsAHc_1DbGXK-OXIeAMJc8AHnmxXUYoxw
+Laberinto On line Web y para PC Windows (NUEVOS NIVELES): https://walterm122.itch.io/laberinto
 
 --------------------------------
 # ROBOTICA
 
 Show Room Liga Nacional de Robótica y GRS Web Online:
 
-Unity WebGL: https://walterm128.github.io/LNR/
-
-Show Room Liga Nacional de Robótica PC Windows: https://mega.nz/file/YVF2Ca6A#MCuADg-yHdbL3yOhuoibt6HjyO69HTKVcOpv09oTDW4
-
-Android Unity: https://mega.nz/file/4V9mWabI#OSaQFM_avDmt9GvEMQyKbqgb86Cf3UN7H5-jdoQubnA
+https://walterm122.itch.io/lnr
 
 --------------------------------
 
 # ASTRONOMÍA
 
-Sistema solar (1er puesto NASA 2020 Hackathon) PC y Android:
+Sistema solar (1er puesto NASA Rosario 2020 Hackathon) Web Online:
 
-Godot: https://mega.nz/file/JYl0xZjY#UsiJmlPqbvDMNc0yO7ehNuJsXlGiPZgdWreAj7RkY7U
-
-Unity: https://mega.nz/file/hJtTGSrB#-qV53umzLngavaftzuATkvzVmezjazfRlAbgKGvy7qo
-
-Unity Android: https://mega.nz/file/1FklSJJQ#O931yAYXNnpL4t2J3fXyDDhL8k2L7fzUYWs9kJcl-EA
-
-Sistema solar (1er puesto NASA 2020 Hackathon) Web Online:
-
-Godot: https://walterm128.github.io/GodotSolarSystem/
-
-Unity: https://walterm128.github.io/gweinsteingame/
+Godot: https://walterm122.itch.io/solar-system
 
 Sitio Completo: https://walterm128.github.io/nasaappweb/eventapi/html/allevents/index.html
 
-Posición ISS 3D en tiempo Real: [Posición ISS](https://walterm128.github.io/ISSTracker/)
+Posición ISS 3D en tiempo Real: [Posición ISS](https://walterm122.itch.io/iss-tracker)
 
 --------------------------------
 
