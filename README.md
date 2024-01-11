@@ -7,6 +7,8 @@
 
 ADN Algoritmo Evolutivo PC Windows: https://mega.nz/file/FdEl0DAA#Z7GToPpLyPt-VvTf2W_pvKSxTVHreXX_X3YsQiet27g
 
+Evolución de flores de 6 genes.
+
 --------------------------------
 
 # JUEGO DE LA VIDA
