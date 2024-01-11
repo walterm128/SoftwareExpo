@@ -3,6 +3,10 @@
 
 # Links para Bajar las aplicaciones o abrirlas con el navegador Web:
 
+# VIDEO DEL EVENTO Monumento a la Bandera - Rosario - Santa Fe
+
+https://www.youtube.com/watch?v=523Xi-DkcZk&t=212s
+
 # GENÉTICA
 
 ADN Algoritmo Evolutivo PC Windows: https://mega.nz/file/FdEl0DAA#Z7GToPpLyPt-VvTf2W_pvKSxTVHreXX_X3YsQiet27g
