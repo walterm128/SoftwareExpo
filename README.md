@@ -17,7 +17,7 @@ Evolución de flores de 6 genes.
 
 # JUEGO DE LA VIDA
 
-El juego de la vida de Conway PC Windows: https://mega.nz/file/wMtBwaYA#_UoVt47xcMeSvaR_5qKOmIipcTDTnWX1ONvCHB4vO9Y
+El juego de la vida de Conway PC Windows: https://mega.nz/file/hcFjjarJ#-k2vBlyATAjYZB813Tz4DKDJWA2LN15EhpxUj-ENSn8
 
 --------------------------------
 # COMPUTACIÓN CUÁNTICA
