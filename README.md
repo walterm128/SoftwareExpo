@@ -9,7 +9,7 @@ https://www.youtube.com/watch?v=523Xi-DkcZk&t=212s
 
 # GENÉTICA
 
-ADN Algoritmo Evolutivo PC Windows: https://mega.nz/file/FdEl0DAA#Z7GToPpLyPt-VvTf2W_pvKSxTVHreXX_X3YsQiet27g
+ADN Algoritmo Evolutivo PC Windows: https://mega.nz/file/5UkxyJoI#KGWTkSMROx24bgmp0Y6MDaFE6WorVKE7IYGAOMbtW44
 
 Evolución de flores de 6 genes.
 
