@@ -24,11 +24,11 @@ El juego de la vida de Conway PC Windows: https://mega.nz/file/oEEmXADR#9Y8-cGj7
 
 Qiskit Lenguaje con simulador Cuánticode de IBM - PC Windows:
 
-Entrelazamiento: https://mega.nz/file/VMUjmZhT#d_8QzHQuhQAIxmC1kicaeuDq71-_CPmLRGJseOcRx6U
+Entrelazamiento:    https://mega.nz/file/MFtwAKBR#shUGENjO6wTjYxMUPXl0Iynq8NSozKUNL3ESXKAIFCg
 
-Teleportación:   https://mega.nz/file/RE93zI4D#wOmjm3zgfI1DkR7UfJoF8gdyvPZotU6zN8Kj825txH0
+Teleportación:      https://mega.nz/file/tBsnWC4K#ce8PGgl3K_lgUYOyVMa2Te9sOBUqQ5sej_jW6LWU070
 
-Código Q Whormhole: https://mega.nz/file/xQllQTgT#5wkVmyR7MQZmVcX8hi0LWbryou8p9c8Z9ej2ddc0UMo
+Código Q Whormhole: https://mega.nz/file/BV9i3ZCA#tmZ6EAoe_pEdZEVwS6cx-cHQda90F1kf6pb9m7KUk34
 
 --------------------------------
 
